@@ -1,4 +1,5 @@
 Feature: Eating Cucumbers
-  
-  Scenario: blabla
+  Scenario: my new scenario
     Given blabla
+    When hhh
+    Then ddd
